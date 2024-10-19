@@ -8,11 +8,11 @@ namespace TrabajoAgustin
 {
     enum Tecnologias
     {
-        React, Angular, Vue_js
+        react, angular, vue_js
     }
     enum Plataformas
     {
 
-        ios,android,windowsphone
+        ios, android, windowsphone
     }
 }

@@ -8,14 +8,42 @@ namespace TrabajoAgustin
 {
     internal class Proyecto_Desarrollo_Movil:Proyecto
     {
-        public string Nombre { get; set; }
-        public EstadoActual Estado { get; set; }
-        public int CantidadDeDesarrolladores { get; set; }
-        public DateTime FechaDeInicio { get; set; }
-        public DateTime FechaEstimada { get; set; }
-        public Plataformas Plataforma { get; set; }
-
-
+        private string _nombre;
+        private EstadoActual _estado;
+        private int _cantidadDeDesarrolladores;
+        private DateTime _fechaDeInicio;
+        private DateTime _fechaEstimada;
+        private Plataformas _plataforma;
+        public string Nombre
+        {
+            get { return _nombre; }
+            set { _nombre = value; }
+        }
+        public EstadoActual Estado
+        {
+            get { return _estado; }
+            set { _estado = value; }
+        }
+        public int CantidadDeDesarrolladores
+        {
+            get { return _cantidadDeDesarrolladores; }
+            set { _cantidadDeDesarrolladores = value; }
+        }
+        public DateTime FechaDeInicio
+        {
+            get { return _fechaDeInicio; }
+            set { _fechaDeInicio = value; }
+        }
+        public DateTime FechaEstimada
+        {
+            get { return _fechaEstimada; }
+            set { _fechaEstimada = value; }
+        }
+        public Plataformas Plataforma
+        {
+            get { return _plataforma; }
+            set { _plataforma = value; }
+        }
         public Proyecto_Desarrollo_Movil(string nombre, EstadoActual estado, int cantidadDeDesarrolladores, Plataformas plataforma) : base(nombre, estado, cantidadDeDesarrolladores)
         {
             Nombre = nombre;

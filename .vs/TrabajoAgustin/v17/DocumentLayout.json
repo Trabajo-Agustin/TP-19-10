@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\tecnologias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\tecnologias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\proyecto_desarrollo_web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\proyecto_desarrollo_web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\proyecto_desarrollo_movil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\proyecto_desarrollo_movil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\systemproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\systemproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|c:\\users\\mauricio ivan bogado\\desktop\\trabajoagustin\\trabajoagustin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3241B-DD8C-4272-9B16-C947D1EA83A3}|TrabajoAgustin\\TrabajoAgustin.csproj|solutionrelative:trabajoagustin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tecnologias.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Tecnologias.cs",
+              "RelativeDocumentMoniker": "TrabajoAgustin\\Tecnologias.cs",
+              "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Tecnologias.cs",
+              "RelativeToolTip": "TrabajoAgustin\\Tecnologias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:00:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto_Desarrollo_Web.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto_Desarrollo_Web.cs",
+              "RelativeDocumentMoniker": "TrabajoAgustin\\Proyecto_Desarrollo_Web.cs",
+              "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto_Desarrollo_Web.cs",
+              "RelativeToolTip": "TrabajoAgustin\\Proyecto_Desarrollo_Web.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:58:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyecto_Desarrollo_Movil.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto_Desarrollo_Movil.cs",
+              "RelativeDocumentMoniker": "TrabajoAgustin\\Proyecto_Desarrollo_Movil.cs",
+              "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto_Desarrollo_Movil.cs",
+              "RelativeToolTip": "TrabajoAgustin\\Proyecto_Desarrollo_Movil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:57:00.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto.cs",
+              "RelativeDocumentMoniker": "TrabajoAgustin\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Proyecto.cs",
+              "RelativeToolTip": "TrabajoAgustin\\Proyecto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:49:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajoAgustin\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\Program.cs",
+              "RelativeToolTip": "TrabajoAgustin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:49:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SystemProyecto.cs",
               "DocumentMoniker": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\SystemProyecto.cs",
               "RelativeDocumentMoniker": "TrabajoAgustin\\SystemProyecto.cs",
               "ToolTip": "C:\\Users\\Mauricio Ivan Bogado\\Desktop\\TrabajoAgustin\\TrabajoAgustin\\SystemProyecto.cs",
               "RelativeToolTip": "TrabajoAgustin\\SystemProyecto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T18:31:25.967Z",
               "EditorCaption": ""

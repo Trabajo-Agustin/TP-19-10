@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,23 +9,46 @@ namespace TrabajoAgustin
 {
     abstract class Proyecto
     {
-        public string Nombre { get; set; }
-        public EstadoActual Estado { get; set; }
-        public int CantidadDeDesarrolladores { get; set; }
-        public DateTime FechaDeInicio { get; set; }
-        public DateTime FechaEstimada { get; set; }
-
-
+        private string _nombre;
+        private EstadoActual _estado;
+        private int _cantidadDeDesarrolladores;
+        private DateTime _fechaDeInicio;
+        private DateTime _fechaEstimada;
+        public string Nombre
+        {
+            get { return _nombre; }
+            set { _nombre = value; }
+        }
+        public EstadoActual Estado
+        {
+            get { return _estado; }
+            set { _estado = value; }
+        }
+        public int CantidadDeDesarrolladores
+        {
+            get { return _cantidadDeDesarrolladores; }
+            set { _cantidadDeDesarrolladores = value; }
+        }
+        public DateTime FechaDeInicio
+        {
+            get { return _fechaDeInicio; }
+            set { _fechaDeInicio = value; }
+        }
+        public DateTime FechaEstimada
+        {
+            get { return _fechaEstimada; }
+            set { _fechaEstimada = value; }
+        }
         public  Proyecto(string nombre, EstadoActual estado, int cantidadDeDesarrolladores)
         {
             Nombre = nombre;
             Estado = estado;
             CantidadDeDesarrolladores = cantidadDeDesarrolladores;
             FechaDeInicio = DateTime.Now;
-            FechaEstimada = CalcularFechastima();
+            FechaEstimada = CalcularFechaEstimada();
 
         }
-       public DateTime CalcularFechastima()
+       public DateTime CalcularFechaEstimada()
         {
 
         }
